@@ -8,4 +8,4 @@ Satkuru Karthigeyan
 6. VWAP two way price does not calculation the bid and offer amount as it not explained in the instruction
 7. Have Junit tests
 8. Using immutable objects where possible
-9. Validating the marketDataUpdate using unchecked exception (runtimeexception) to avoid breaking the claculator method
+9. Validating the marketDataUpdate using unchecked exception (runtimeexception) to avoid breaking the Calculator's method
